@@ -1,5 +1,5 @@
 hello welcome
 a=10
+b=20 kishroe
 c=30--ranjith
-
-D=40--ranjith
+d=40
